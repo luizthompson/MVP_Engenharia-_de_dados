@@ -36,3 +36,18 @@ Modelo de Dados: Vou criar um esquema estrela para o Titanic Dataset.
 
 Fato: Passageiros
 Dimensões: Sobrevivência, Classe, Sexo, Embarque
+
+![image](https://github.com/luizthompson/MVP_Engenharia-_de_dados/assets/165716819/527ed191-1078-44b2-a6c6-8f4ca33a2561)
+
+
+# 4. Carga
+Nesta etapa, eu vou salvar os dados no banco de dados do Databricks para persistência, garantindo que os dados estejam prontos para consultas e análises futuras.
+
+![image](https://github.com/luizthompson/MVP_Engenharia-_de_dados/assets/165716819/c8245899-75fd-4e5f-b5ba-d71b4f7ca285)
+
+# 5. Análise
+
+Nesta etapa, eu realizarei uma análise detalhada dos dados para verificar a qualidade e obter insights relevantes para responder às perguntas de negócio.
+
+## a. Qualidade dos Dados
+
